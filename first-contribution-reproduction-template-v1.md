@@ -102,6 +102,12 @@ Proof Package:
 - Source URL:
 - Final artifact URL or archive location:
 - Screenshot or supporting proof, if used:
+Operational Tracker:
+- PFT Hours:
+- Reward Status: Pending / Submitted / Rewarded / Not Rewarded
+- Reuse Potential: Low / Medium / High
+- Scale / No-Scale Decision: Scale / No-Scale
+- Scale / No-Scale Rationale:
 Output Only Attestation:
 Tracker / Archive Row:
 ```
@@ -157,6 +163,13 @@ Proof Package:
 - Final artifact URL or archive location: [add public URL]
 - Screenshot or supporting proof, if used: [add public screenshot/archive link if applicable]
 
+Operational Tracker:
+- PFT Hours: 1.5
+- Reward Status: Pending
+- Reuse Potential: High
+- Scale / No-Scale Decision: Scale
+- Scale / No-Scale Rationale: This format can be reused for other public Post Fiat essays, manifestos, task descriptions, and protocol pages that need to be compressed into beginner-friendly proof artifacts.
+
 Output Only Attestation:
 I attest that this submission is based on public source material and contains a completed reproduced artifact.
 
@@ -200,6 +213,11 @@ Pass if all required inclusions are present and no disallowed material is includ
 - [ ] Output Only attestation is included
 - [ ] Tracker/archive row is included
 - [ ] Final artifact or archive location is public or ready to be made public
+- [ ] PFT Hours are listed
+- [ ] Reward Status is listed
+- [ ] Reuse Potential is listed
+- [ ] Scale / No-Scale Decision is listed
+- [ ] Scale / No-Scale Rationale is included
 
 **Required non-inclusions:**
 
@@ -224,6 +242,8 @@ Pass if all required inclusions are present and no disallowed material is includ
 - [ ] Output Only attestation is missing
 - [ ] Tracker/archive row is incomplete
 - [ ] Final URL is missing but can be added
+- [ ] Operational tracker fields are missing or incomplete
+- [ ] Scale / No-Scale rationale is unclear
 
 **Fail if unverifiable, off-format, or unsafe:**
 
@@ -249,6 +269,11 @@ Source URL:
 Artifact Format:
 Final Artifact URL:
 Proof Package URL:
+PFT Hours:
+Reward Status:
+Reuse Potential:
+Scale / No-Scale Decision:
+Scale / No-Scale Rationale:
 Reviewer:
 Decision: Pass / Revise / Fail / Pending
 Revision Notes:
@@ -268,6 +293,11 @@ Source URL: https://diamondhandhoncho.substack.com/p/output-only-execution-proto
 Artifact Format: 5-slide text carousel
 Final Artifact URL: Example placeholder — replace with live public artifact URL
 Proof Package URL: Example placeholder — replace with live proof/archive URL
+PFT Hours: 1.5
+Reward Status: Pending
+Reuse Potential: High
+Scale / No-Scale Decision: Scale
+Scale / No-Scale Rationale: Reusable for future first-contribution reproductions based on public Post Fiat source material.
 Reviewer: [add reviewer name or handle]
 Decision: Pending
 Revision Notes: Pending review
