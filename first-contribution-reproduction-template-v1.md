@@ -156,6 +156,13 @@ Proof Package:
 - Source URL: https://diamondhandhoncho.substack.com/p/output-only-execution-protocol
 - Final artifact URL or archive location: [add public URL]
 - Screenshot or supporting proof, if used: [add public screenshot/archive link if applicable]
+
+Output Only Attestation:
+I attest that this submission is based on public source material and contains a completed reproduced artifact.
+
+I submitted only the output, the public source link, and the proof needed for review.
+
+The reviewer should be able to evaluate this contribution from the source material, reproduced artifact, and proof package without needing private context, explanation, or special access.
 ```
 
 </details>
@@ -182,52 +189,52 @@ Pass if all required inclusions are present and no disallowed material is includ
 
 **Required inclusions:**
 
-- Public source URL is included
-- Source loads without login or paywall
-- Selected artifact format is clearly listed
-- Artifact uses the required 5-slide carousel structure
-- Core claim is included
-- Reproduced artifact maps clearly back to the source
-- Reproduction note explains what was changed from source to output
-- Proof package is included
-- Output Only attestation is included
-- Tracker/archive row is included
-- Final artifact or archive location is public or ready to be made public
+- [ ] Public source URL is included
+- [ ] Source loads without login or paywall
+- [ ] Selected artifact format is clearly listed
+- [ ] Artifact uses the required 5-slide carousel structure
+- [ ] Core claim is included
+- [ ] Reproduced artifact maps clearly back to the source
+- [ ] Reproduction note explains what was changed from source to output
+- [ ] Proof package is included
+- [ ] Output Only attestation is included
+- [ ] Tracker/archive row is included
+- [ ] Final artifact or archive location is public or ready to be made public
 
 **Required non-inclusions:**
 
-- No private messages
-- No private keys or seed phrases
-- No private wallet identity links
-- No private datasets
-- No unreleased code
-- No internal strategy notes
-- No proprietary trading logic
-- No confidential contributor, client, or protocol information
-- No personal information unnecessary for review
+- [ ] No private messages
+- [ ] No private keys or seed phrases
+- [ ] No private wallet identity links
+- [ ] No private datasets
+- [ ] No unreleased code
+- [ ] No internal strategy notes
+- [ ] No proprietary trading logic
+- [ ] No confidential contributor, client, or protocol information
+- [ ] No personal information unnecessary for review
 
 **Revise if safe but incomplete or unclear:**
 
-- Core claim is vague
-- Carousel does not clearly follow Hook / Problem / Mechanism / Shift / Outcome
-- Artifact is too broad
-- Source-to-output connection needs clarification
-- Reproduction note is missing or weak
-- Proof package is incomplete
-- Output Only attestation is missing
-- Tracker/archive row is incomplete
-- Final URL is missing but can be added
+- [ ] Core claim is vague
+- [ ] Carousel does not clearly follow Hook / Problem / Mechanism / Shift / Outcome
+- [ ] Artifact is too broad
+- [ ] Source-to-output connection needs clarification
+- [ ] Reproduction note is missing or weak
+- [ ] Proof package is incomplete
+- [ ] Output Only attestation is missing
+- [ ] Tracker/archive row is incomplete
+- [ ] Final URL is missing but can be added
 
 **Fail if unverifiable, off-format, or unsafe:**
 
-- Source is private, gated, or unavailable
-- Artifact does not use the selected format
-- Output cannot be traced back to the source
-- Submission depends on private context or special access
-- Sensitive material is included
-- Work appears copied without meaningful reproduction
-- Proof package is not sufficient for review
-- Required non-inclusions are violated
+- [ ] Source is private, gated, or unavailable
+- [ ] Artifact does not use the selected format
+- [ ] Output cannot be traced back to the source
+- [ ] Submission depends on private context or special access
+- [ ] Sensitive material is included
+- [ ] Work appears copied without meaningful reproduction
+- [ ] Proof package is not sufficient for review
+- [ ] Required non-inclusions are violated
 
 </details>
 
@@ -259,8 +266,8 @@ Contributor: Dex33
 Source Material: Output-Only Execution Protocol
 Source URL: https://diamondhandhoncho.substack.com/p/output-only-execution-protocol
 Artifact Format: 5-slide text carousel
-Final Artifact URL: [add public URL]
-Proof Package URL: [add public proof/archive URL]
+Final Artifact URL: Example placeholder — replace with live public artifact URL
+Proof Package URL: Example placeholder — replace with live proof/archive URL
 Reviewer: [add reviewer name or handle]
 Decision: Pending
 Revision Notes: Pending review
